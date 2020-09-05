@@ -2,7 +2,7 @@
 
 ### Gordon Tusabe
 
-[Database](NONPROFITDATABASE.PDF)
+[Database](NONPROFIDATABASE.PDF)
 
 I would like to create an app or website that will help raise funds for children who are in third world countries that are orphaned due to HIV/AIDs. This site will have access points to let people know the mission for the cause,
  It will also have buttons for different people to donate.
